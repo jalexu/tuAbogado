@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "957811279092",
+    "firebase_url": "https://tuabogado-8f1d0.firebaseio.com",
+    "project_id": "tuabogado-8f1d0",
+    "storage_bucket": "tuabogado-8f1d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957811279092:android:f32a34e3cb6486e9",
+        "android_client_info": {
+          "package_name": "com.example.jalex.tuabogado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957811279092-s4hoergu34l876oi99g9kb4qsblkps6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jalex.tuabogado",
+            "certificate_hash": "084f5437354a4db9619f1efb26e67abbe728cefe"
+          }
+        },
+        {
+          "client_id": "957811279092-llkj61hs4b8lj70sn75cp0kqb2r79tjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhkt1RlrUVZmp_uCGDJGsmQAa0bvRuJNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957811279092-llkj61hs4b8lj70sn75cp0kqb2r79tjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
